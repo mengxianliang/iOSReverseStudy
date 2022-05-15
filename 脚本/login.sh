@@ -1,1 +1,1 @@
-ssh root@10.201.57.121
+ssh root@localhost -p 10010

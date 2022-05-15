@@ -1,0 +1,10 @@
+Package: com.xl.sb
+Name: tweak_sb
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: mxl
+Author: mxl
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-3+debug
+Installed-Size: 216
