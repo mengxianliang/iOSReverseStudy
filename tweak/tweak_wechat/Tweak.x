@@ -57,7 +57,7 @@
         //开关
         UISwitch *switchView = [[UISwitch alloc] init];
         switchView.on = [XLDefaults boolForKey:XLAutoSwitchKey];
-        [switchView addTarget:self action:@selector(autoChange:) forControlEvents:UIControlEventValueChanged];
+        [switchView addTarget:self action:@selector(xl_autoChange:) forControlEvents:UIControlEventValueChanged];
         cell.accessoryView = switchView;
     }
     
