@@ -1,7 +1,7 @@
 
 #define XLDefaults [NSUserDefaults standardUserDefaults]
 #define XLAutoSwitchKey @"XLAutoSwitchKey"
-#define XLFile(path) @"/Library/PreferenceLoader/Preferences/XLWeChat/" #path
+#define XLFile(path) @"/Library/Caches/XLWeChat/" #path
 
 #import "FindFriendEntryViewController.h"
 
